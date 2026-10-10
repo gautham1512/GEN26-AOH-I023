@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I023
 ### Team Details
-#### **Team Name** <<ACTUATOR ALLIANCE>> <br/>
+#### **ACTUATOR ALLIANCE** << ACTUATOR ALLIANCE >> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | HOSTELLER/DAYSCHOLAR               |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:----------------------------------:|
